@@ -12,5 +12,6 @@
 ## My Github stats:
 ![](https://visitor-badge.laobi.icu/badge?page_id=Dominic-ktz)
 [![Github](https://img.shields.io/github/followers/CharalambosIoannou?label=Follow&style=social)](https://github.com/Dominic-ktz)
+<br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Dominic-ktz&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dominic-ktz&theme=tokyonight)
