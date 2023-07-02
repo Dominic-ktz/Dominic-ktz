@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominic</h1>
-<h3 align="center">A 19 y/o Dev from Germany</h3>
+<h3 align="center">A 20 y/o Dev from Germany</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dominic-ktz&label=Profile%20views&color=5b2067&style=flat" alt="dominic-ktz" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Kira( a dezentralized alternative to discord)**
 
-- 🌱 I’m currently learning **Flutter and React**
+- 🌱 I’m currently learning **Flutter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
