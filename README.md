@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/dominic_ktz" target="blank"><img src="https://img.shields.io/twitter/follow/dominic_ktz?logo=twitter&style=for-the-badge" alt="dominic_ktz" /></a> </p>
 
-- 🔭 I’m currently working on **Kira( a dezentralized alternative to discord)**
+- 🔭 I’m currently working on **Some projects at Kisara**
 
 - 🌱 I’m currently learning **Flutter**
 
