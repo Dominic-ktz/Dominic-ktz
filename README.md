@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dominic</h1>
-<h3 align="center">A 20 y/o Dev from Germany</h3>
+<h3 align="center">A 22 y/o Dev from Germany</h3>
 
 # 💫 About Me:
 - I am curreontly working on Mikorm, a social media network like Twittter etc. but for <br>   anime fans and cosplayer
